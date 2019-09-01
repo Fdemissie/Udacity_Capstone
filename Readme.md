@@ -71,6 +71,7 @@ The scope of this project is to use airbnb open data available at kaggle for New
 #### Included in the project
   * dags folder with ```udacity_airbnb_final_dag.py``` and jsonpath files
   * ```plugins directory``` which inlcudes the ```operators```, and ```helper``` queries
+  * ```dataCleaning.ipynb``` file to clean data during the first phase
   * sample csv and json dataset
   * ```readme```
 
