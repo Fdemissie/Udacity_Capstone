@@ -1,5 +1,5 @@
-
-![Final](resource/Airbnb.PNG) 
+![airbnb](resource/airbnb.png)
+   
 # Airbnb data modeling for listing popularity analysis - NYC 
 
 ## Objective
