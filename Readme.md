@@ -3,7 +3,7 @@
 # Airbnb data modeling for listing popularity analysis - NYC 
 
 ## Objective
-Airbnb is an onine business platform that provides an opportunity to link apartment owners(hosts) and the guests. Anybody with an open room or free space can become a host on Airbnb. It is a good way to provide extra income with minimal effort. It is an easy way to advertise space because the platform has the traffic and a global user base to support it. 
+Airbnb is an online business platform that provides an opportunity to link apartment owners(hosts) and the guests. Anybody with an open room or free space can become a host on Airbnb. It is a good way to provide extra income with minimal effort. It is an easy way to advertise space because the platform has the traffic and a global user base to support it. 
 
 
 ## Scope
