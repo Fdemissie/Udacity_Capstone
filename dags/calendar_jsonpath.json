@@ -1,0 +1,8 @@
+{
+    "jsonpaths": [
+        "$['listing_id']",
+        "$['date']",
+        "$['available']"
+		
+    ]
+}
