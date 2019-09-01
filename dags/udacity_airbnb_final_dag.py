@@ -21,8 +21,8 @@ config = configparser.ConfigParser()
 config.read('dl.cfg')
 
 
-AWS_KEY ='AKIARK7KKCYHGBGNJWEP'
-AWS_SECRET ='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'
+AWS_KEY =''
+AWS_SECRET =''
 
 
 
